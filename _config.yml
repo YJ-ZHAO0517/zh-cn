@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "赵永建"
 description              : "机器人辅助多模态成像"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "https://yj-zhao0517.github.io/zh-cn/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
